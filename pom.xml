@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.amalitech</groupId>
-	<artifactId>discovery-server</artifactId>
+	<artifactId>eureka-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>DiscoveryServer</name>
-	<description>DiscoveryServer</description>
+	<name>EurekaServer</name>
+	<description>EurekaServer</description>
 	<url/>
 	<licenses>
 		<license/>
